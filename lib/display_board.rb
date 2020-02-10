@@ -7,4 +7,4 @@ def display_board
   print (cell)
   print (row)
   print (cell)
-end
+end display_board
