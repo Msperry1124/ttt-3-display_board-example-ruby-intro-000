@@ -2,9 +2,9 @@ def display_board
   cell = "   |   |   "
   row = "-----------"
   puts "A Tic Tac Toe Board"
-  print (cell)
-  print (row)
-  print (cell)
-  print (row)
-  print (cell)
+  puts "cell"
+  puts "row"
+  puts "cell"
+  puts "row"
+  puts "cell"
 end
