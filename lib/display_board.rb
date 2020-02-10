@@ -1,7 +1,1 @@
-Row = "   |   |   "
-Dash = "-----------"
-puts "Row"
-puts "Dash"
-puts "Row"
-puts "Dash"
-puts "Row"
+cell = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
